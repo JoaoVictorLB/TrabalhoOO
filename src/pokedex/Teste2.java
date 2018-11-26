@@ -9,6 +9,6 @@ package pokedex;
  *
  * @author João Victor
  */
-public class Teste {
+public class Teste2 {
     
 }
